@@ -1,0 +1,7 @@
+
+// Script:
+
+function resetForm() {
+    g_form.clearForm();
+    alert("The form has been reset.");
+}
