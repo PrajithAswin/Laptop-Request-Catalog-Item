@@ -15,3 +15,19 @@ It provides a **dynamic form**, **automated workflow**, and **reset functionalit
       g_form.clearForm();
       alert("The form has been reset.");
   }
+
+## 🎥 Demo Video
+
+ 🎬 This is my demo video:
+https://drive.google.com/file/d/16TTCaUNGxAFWMkaGevbtLD4KELFxitgX/view?usp=drivesdk
+
+ ## 📸 Screenshots
+
+I have attached 3 screenshots showing the working project interface:
+
+| Laptop Request Form           | Dynamic Field Behavior   | Workflow Process           |
+| ----------------------------- | ------------------------ | -------------------------- |
+
+##  📄 Project Report
+
+📘 I have attached the complete project report in this repository under the docs/ folder
